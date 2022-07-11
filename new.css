@@ -1,0 +1,202 @@
+body 
+{
+    background-image: url('bg.jpg');
+    background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:1400px 950px;
+  }
+  h1{ 
+     background-color:powderblue;
+color:black;
+text-shadow:blue;
+opacity:65%;
+border-style:double;
+width:1245px;
+height:40px; 
+    }
+h3{ 
+     background-color:powderblue;
+color:black;
+text-shadow:blue;
+opacity:65%;
+border-style:double;
+width:1245px;
+height:40px; 
+    }
+button{
+background-color:transparent;
+border:none;
+}
+nav:hover{transform:scale(.9);}
+    
+    #p1{
+        color:yellow;
+        background-color:rgb(51, 0, 0);
+    }
+    #p2{
+        color: orange;
+        background-color:rgb(51, 0, 0);
+    }
+    #p3{
+        color: rgb(255, 0, 0);
+        background-color:rgb(51, 0, 0);
+    }
+    #p4{
+        color: rgb(182, 214, 0);
+        background-color:rgb(51, 0, 0);
+    }
+    #p5{
+        color: aqua;
+        background-color:rgb(51, 0, 0);
+    
+    }
+    
+    nav:hover{transform:scale(.9);}
+    
+    #b3{
+        
+        color: aliceblue;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+    }
+    #b4{
+        color: yellow;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        align-content: center;
+        position: relative;
+    }
+    #b5{
+        color: aliceblue;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+    }
+    #b6{
+        color: yellow;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        align-content: center;
+        position: relative;
+    }
+    #b7{
+        color: aliceblue;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+    }
+    #b8{
+        color: yellow;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+    }
+    #b9{
+        color: aliceblue;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+    }
+    #b10{
+        color: yellow;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times
