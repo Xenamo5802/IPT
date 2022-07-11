@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="new1.css"
+</head>
+<body background="bg.jpg" style="background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+
+<center><h1 style="border:2px solid Tomato">MENU</h1></center>
+
+<a href="act 3.html" target="_blank"><div class="zoom"><img src='fav.png' height='130px' width='180px'></div></a>
+
+<h3 >Ang icon button na ito ay dadalhin ka sa activity 3.</h3>
+
+<a href="myprofile.html" target="_blank"><div class="zoom"><img src='man.png' height='120px' width='150px'></div></a>
+<center>
+<h3 > Ako si Angel Batoc Añonuevo isang simpleng tao at kung gusto mo akong makilala sa 
+pamamagitan ng maliit na impormasyon pindutin ang naunang icon.</h3>
+</center>
+
+<a href="1.html" target="_blank"><div class="zoom"><img src='family.png' height='110px' width='120px'></div></a>
+<center>
+<h3 > Ako si Angel Batoc Añonuevo isang simpleng tao at kung gusto mo akong makilala sa 
+pamamagitan ng maliit na impormasyon pindutin ang naunang icon.</h3>
+</center>
+
+</body>
+</html>
