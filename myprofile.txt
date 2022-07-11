@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="new.css">
+</head>
+<body>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="me.jpg" width="150" height="150" style="border: 5px;"></center>
+</nav>
+
+<center>
+<h3 id="b1">Angel B. Añonuevo </h3>
+<h3 id="b2">Gusto ko ng maging patatas..chill lng sa ilalaim ng lupa hahahaha</h3>
+    <p id="b3">PLACE OF BIRTH:</p>
+  <p id="b4"><b>SAN JUAN CITY</b></p>
+     <p id="b5">CIVIL STATUS:</p>
+ <p id="b6"><b>SINGLE WALA PANG PAMASAHE PANG JAPAN EH</b></p>
+     <p id="b7">RELIGION:</p>
+    <p id="b8"><b>CATHOLIC</b></p>
+   <p id="b9">CITIZENSHIP:</p>
+<p id="b10"><b>FILIPINO</b></p>
+</center>
+
+    
+<a href="menu.html">
+    
+    <button type="button" class="button">
+        <img src="home.png" alt="user button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+
+</body>
+</html>

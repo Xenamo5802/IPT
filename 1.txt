@@ -1,0 +1,52 @@
+<html>
+<head>
+<link rel="stylesheet"href="newcss.css">
+</head>
+<body>
+ 	<center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">My Family</h1>
+    	</center>
+
+
+
+<div>
+<p1><img src="me.jpg" width="150" height="150" style="border: 5px;"><br>
+	Ako si Angel B. Añonuevo pangarap ko maging patatas.<br>
+	<button type="button" onclick="window.location.href='myprofile.html';">See profile</button>
+</p1>
+</div>
+<div>
+<p2><img src="MAMA.jpg" width="150" height="150" style="border: 5px;"><br>
+	Ito ang babaeng hindeng hinde kame susukuan.<br>
+	<button type="button" onclick="window.location.href='MAMA.html';">See profile</button>
+</p2>
+</div>
+<div>
+<p2><img src="PAPA.jpg" width="150" height="150" style="border: 5px;"><br>
+	One of the best man in the world<br>
+	<button type="button" onclick="window.location.href='PAPA.html';">See profile</button>
+</p2>
+</div>
+<div>
+<p2><img src="BUNSO.jpg" width="150" height="150" style="border: 5px;"><br>
+	Ito yung junior namin small but terrible hahahaha<br>
+	<button type="button" onclick="window.location.href='BUNSO.html';">See profile</button>
+</p2>
+</div>
+<div>
+<p2><img src="ANDRIE.jpg" width="150" height="150" style="border: 5px;"><br>
+	Ito yung pangalawa kong kapatid, mortal enemy ko hahaha<br>
+	<button type="button" onclick="window.location.href='ANDIRE.html';">See profile</button>
+</p2>
+</div>
+<a href="menu.html">
+    
+    <button1 type="button" class="button">
+        <img src="home.png" alt="user button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button1>
+</a>
+</body>
+</html>
