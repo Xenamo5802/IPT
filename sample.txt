@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="style.css"
+</head>
+<body background="bg.jpg" style="background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+
+<center><h1 style="border:2px solid Tomato">My Second Activity</h1>
+<center><h1 style="border-bottom:1px solid gray;border-top:1px"><b>Good day!</b> let's try  <b> THE HTML PRACTICE</b></h1>
+
+<center>
+<h2>YOUTUBE</h2>
+<h3 class="ex3">Napili ko ang website na youtube dahil isa ito sa easy access na site online. Ang youtube ay isang entertainment website na maari mong puntahan kapag nabobored ka sa inyong bahay. Lahat ng content na pwede sa mga manunuod ay makikita mo rito. Ang youtube ay pwede ring maging news site kapag hind emo napanuod sa tv ang latest na balita. Maari ka ring kumita ng malaki sa site na ito kung isa kang magaling na content creator. </h3>
+</center>
+<center>
+<h2>MESSENGER</h2>
+<h3 class="ex3">Ang Messenger ay isang chatting website na kung saan ay maari mong makausap ang mahal mo sa buhay kahit na nasa malayo sila. Isa sa mga nagustuhan kong features ng messenger ay ang kanilang video call feature. Ang messenger ay maari mo ring gamitin upang paluguin ang iyong business sa pag iinvite sa iyong mga kaibigan. Sa pamamagitan din ng messenger ay may mga relasyong nabuo at nasira (peace wala kong experience sa relasyon). Sa panahon ng pandemic nagamit natin ang messenger upang makakonekta sa ating paaralan at maipagpatuloy ang ating mga pagaaral.</h3>
+</center>
+<center>
+<h2>MYFLIXER</h2>
+<h3 class="ex3">Ang MyFlixer ay isang movie site, maari kang makapanuod dito ng mga bagong movies. Ang site na ito ay matatawag ko na illegal site dahil  mga pirated na high qualities na mga movie ang nandito. Lahat ng genre ng movie ay makikita mo rito. Hinde ko nirerekomenda ang site na ito para mga taong ayaw ng libre. Try nyo pa ren yung site na ito, anong malay natin magustuhan mo. </h3>
+</center>
+<center>
+<h2>HOWRARE</h2>
+<h3 class="ex3">Ang Howrare.is ay isang nft minting site na kung saan ay bibili ka ng mga bagong labas na mga nft na maari mong maibenta sa mas mahal na halaga. Sa website na ito ay maari kang makakuha ng mga libreng nft kung matyaga kang magantay sa mga libreng airdrop nila. Ang main crypto coins na ginagamit dito ay ang Solana. Kung isa kang nft lover ay magugustuhan mo ang website na ito. Maari kang yumaman sa site na ito kaya tara na.</h3>
+</center>
+<center>
+<h2>OPENSEA</h2>
+<h3 class="ex3">Napili ko ang Opensea dahil sa mga mgagandang  NFT na ibinebenta dito.Sa website na ito ay maaari kang mag benta at bumili ng mga art work online. Maari ka ring gumawa ng sariling mong  nft at ibenta ito ditto.ang website na ito ay user friendly at madali lang matutunan ang pamamalakad nila sa website. Sa website na ito ay maari kang kumita ng malaki kapag isa kang aspiring artist.</h3>
+
+
+
+<center><h1 style="border-bottom:3px solid gray;"></h1>
+<form>
+<center>
+<table border="5" width="500px" height="200px">
+  <tbody><tr>
+    <th rowspan="6" style="color:Orange;">Search</th>
+    <th colspan="2" style="color:Orange;">Browser</th>
+    <th style="color:Orange;">Website</th>
+	<th style="color:Orange;">Links</th>  
+</tr>
+<tr>
+  
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">YOUTUBE</td>
+ <td><a style="color:LightCoral;" href="https://www.youtube.com/" "="" target="_blank">https://www.youtube.com/</a></td>
+  </tr>
+
+  <tr>
+    
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">MESSENGER</td>
+ <td> <a style="color:LightCoral;href="https://www.messenger.com/" "="" target="_blank">https://www.messenger.com/</a></td>
+  </tr>
+
+  <tr>
+   
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">MYFLIXER</td>
+ <td><a style="color:LightCoral;" href="https://www.myflixer.to/" "="" target="_blank">https://www.myflixer.to/</a></td>
+  </tr>
+
+  <tr>
+   
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">HOWRARE</td>
+ <td><a style="color:LightCoral;" href="https://howrare.is/" "="" target="_blank">https://howrare.is/</a></td>
+  </tr>
+ <tr>
+    
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">OPENSEA</td>
+ <td><a style="color:LightCoral;" href="https://opensea.io/" "="" target="_blank">https://opensea.io/</a></td>
+  </tr>
+
+</tbody>
+</table>
+<center>
+<h1 style="border-bottom:3px solid black;"></h1>
+
+</center>
+</center>
+</form>
+<a href="menu.html">
+    
+    <button type="button" class="button">
+        <img src="user.png" alt="user button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+</body>
+</html>
